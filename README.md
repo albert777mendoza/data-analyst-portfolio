@@ -26,8 +26,8 @@ características y comportamiento del mercado de vehículos.
 Análisis de viajes para evaluar el impacto de factores externos,
 como las condiciones climáticas, en la duración de los viajes.
 
-📁 Repositorio del proyecto:  
-➡️ (agregar enlace del proyecto de viajes)
+📁 Proyecto:  
+➡️ https://github.com/albert777mendoza/data-analyst-portfolio/tree/main/projects/trips-analysis
 
 **Herramientas:** SQL, PostgreSQL, Python
 
@@ -37,13 +37,10 @@ como las condiciones climáticas, en la duración de los viajes.
 Evaluación de hipótesis relacionadas con el comportamiento de los usuarios
 mediante consultas SQL y análisis de resultados.
 
-📁 Repositorio del proyecto:  
-➡️ (agregar enlace del proyecto de hipótesis)
+📁 Proyecto:  
+➡️ https://github.com/albert777mendoza/data-analyst-portfolio/tree/main/projects/hypotheses-sql
 
 **Herramientas:** SQL, PostgreSQL
-
-*(Los detalles de cada proyecto se encuentran dentro de su respectiva carpeta.)*
-
 ---
 
 ## 🛠️ Habilidades técnicas
