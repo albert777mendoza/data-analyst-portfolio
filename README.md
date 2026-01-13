@@ -1,10 +1,8 @@
 # Data Analyst Portfolio
 
-Hola, soy **Albert F. Mendoza**, Data Analyst en formación con enfoque en
-análisis de datos utilizando **SQL y Python**.
+Hola! soy Albert F. Mendoza, profesional en transición hacia el análisis de datos y Data Analyst en formación, con enfoque en SQL y Python.
 
-Este repositorio presenta proyectos desarrollados durante el **bootcamp TripleTen**,
-donde he trabajado en la recopilación, limpieza, análisis y visualización de datos
+Este repositorio presenta proyectos desarrollados durante el **bootcamp TripleTen**, donde he trabajado en la recopilación, limpieza, análisis y visualización de datos
 para obtener **insights accionables orientados a la toma de decisiones**.
 
 ---
