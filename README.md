@@ -27,7 +27,7 @@ Análisis de viajes para evaluar el impacto de factores externos,
 como las condiciones climáticas, en la duración de los viajes.
 
 📁 Proyecto:  
-➡️ https://github.com/albert777mendoza/data-analyst-portfolio/tree/main/projects/trips-analysis
+➡️ https://github.com/albert777mendoza/trip-analysis.git
 
 **Herramientas:** SQL, PostgreSQL, Python
 
