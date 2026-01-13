@@ -11,12 +11,36 @@ visualización de datos para obtener insights accionables.
 
 ## 🧩 Proyectos
 
-Los proyectos están organizados en la carpeta **/projects** e incluyen:
+### 🚗 Vehicle Sales Analysis
+Análisis exploratorio de datos para identificar patrones en precios,
+características y comportamiento del mercado de vehículos.
 
-- Análisis exploratorio de datos (EDA)
-- Consultas SQL para extracción y transformación de datos
-- Visualización de datos y generación de insights
-- Resolución de problemas de negocio basados en datos
+📁 Repositorio del proyecto:  
+➡️ https://github.com/albert777mendoza/vehicles_env
+
+**Herramientas:** Python, Pandas, NumPy, Matplotlib
+
+---
+
+### 🚕 Trip Data Analysis
+Análisis de viajes para evaluar el impacto de factores externos,
+como las condiciones climáticas, en la duración de los viajes.
+
+📁 Repositorio del proyecto:  
+➡️ (agregar enlace del proyecto de viajes)
+
+**Herramientas:** SQL, PostgreSQL, Python
+
+---
+
+### 📊 Hypothesis Testing with SQL
+Evaluación de hipótesis relacionadas con el comportamiento de los usuarios
+mediante consultas SQL y análisis de resultados.
+
+📁 Repositorio del proyecto:  
+➡️ (agregar enlace del proyecto de hipótesis)
+
+**Herramientas:** SQL, PostgreSQL
 
 *(Los detalles de cada proyecto se encuentran dentro de su respectiva carpeta.)*
 
