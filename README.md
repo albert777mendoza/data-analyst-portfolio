@@ -3,9 +3,9 @@
 Hola, soy **Albert F. Mendoza**, Data Analyst en formación con enfoque en
 análisis de datos utilizando **SQL y Python**.
 
-Este repositorio contiene proyectos desarrollados durante el **bootcamp
-TripleTen**, donde he trabajado en la recopilación, limpieza, análisis y
-visualización de datos para obtener insights accionables.
+Este repositorio presenta proyectos desarrollados durante el **bootcamp TripleTen**,
+donde he trabajado en la recopilación, limpieza, análisis y visualización de datos
+para obtener **insights accionables orientados a la toma de decisiones**.
 
 ---
 
@@ -41,10 +41,10 @@ mediante consultas SQL y análisis de resultados.
 ➡️ https://github.com/albert777mendoza/data-analyst-portfolio/tree/main/projects/hypotheses-sql
 
 **Herramientas:** SQL, PostgreSQL
+
 ---
 
 ## 🛠️ Habilidades técnicas
-
 - **SQL** (consultas, joins, agregaciones)
 - **Python** (pandas, numpy, matplotlib)
 - **Análisis exploratorio de datos (EDA)**
@@ -54,12 +54,10 @@ mediante consultas SQL y análisis de resultados.
 ---
 
 ## 🎓 Formación
-
 - **Bootcamp de Data Analyst – TripleTen**
 
 ---
 
 ## 📬 Contacto
-
-- LinkedIn: *(agrega aquí tu enlace)*
-- GitHub: *(este repositorio)*
+- **LinkedIn:** *(agrega aquí tu enlace)*
+- **GitHub:** https://github.com/albert777mendoza
